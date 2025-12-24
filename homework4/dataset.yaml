@@ -1,0 +1,7 @@
+nc: 2
+names: [
+    "binghongcha", "sprite",
+]
+train: C:\Users\lamor\Desktop\homework4\yolo_format\images\train
+val: C:\Users\lamor\Desktop\homework4\yolo_format\images\val
+test: C:\Users\lamor\Desktop\homework4\yolo_format\images\test
